@@ -1,0 +1,5 @@
+/Users/iguest/AndroidStudioProjects/BigGoButton/app/build/intermediates/classes/debug
+/Users/iguest/AndroidStudioProjects/BigGoButton/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-4af7d6332c26af2f77965e6927554b935e27e503.jar
+/Users/iguest/AndroidStudioProjects/BigGoButton/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-172d1817fc6a959188b7eaaead5d957cc95d54a5.jar
+/Users/iguest/AndroidStudioProjects/BigGoButton/app/build/intermediates/pre-dexed/debug/classes-2123a00d78e3b14765963e1a15624f303508565c.jar
+/Users/iguest/AndroidStudioProjects/BigGoButton/app/build/intermediates/pre-dexed/debug/classes-d7d76ec0d88734ec4730e36093b61447102081ba.jar
